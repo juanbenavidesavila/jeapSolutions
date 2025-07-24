@@ -1,0 +1,11 @@
+{
+    "name": "jeapSolutions",
+    "icons": [
+      {
+        "src": "static/icon_jeap_solutions.png",
+        "type": "image/jpg",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
